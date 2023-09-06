@@ -1,4 +1,4 @@
-##<ChenZhu> web exercise
+## <ChenZhu> web exercise
 
 ###Italics and Bold
 
@@ -10,7 +10,7 @@ I **will** complete these lessons!
 
 If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.
 
-###Headers
+### Headers
 
 #Header one
 ##Header two
@@ -49,7 +49,7 @@ Well, do I have [the website for you][another fun place]!
 [Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
 [Orange]: http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
 
-####Blockquotes
+#### Blockquotes
 
 I read this interesting quote the other day:
 
@@ -63,7 +63,7 @@ I read this interesting quote the other day:
 
 >He left her quickly, fearing that her intimacy might turn to jibing and wishing to be out of the way before she offered her ware to another, a tourist from England or a student of Trinity. Grafton Street, along which he walked, prolonged that moment of discouraged poverty. In the roadway at the head of the street a slab was set to the memory of Wolfe Tone and he remembered having been present with his father at its laying. He remembered with bitterness that scene of tawdry tribute. There were four French delegates in a brake and one, a plump smiling young man, held, wedged on a stick, a card on which were printed the words: _VIVE L'IRLANDE_!
 
-####Lists
+#### Lists
 
 * Flour
 * Cheese
@@ -96,7 +96,7 @@ I read this interesting quote the other day:
   
   For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
 
-####Paragraphs
+#### Paragraphs
 
 We pictured the meek mild creatures where  
 They dwelt in their strawy pen,  
@@ -111,4 +111,3 @@ To doubt they were kneeling then.
 2. Pour a gallon of milk into the bowl.
 
  Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
- 
