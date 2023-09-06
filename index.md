@@ -12,24 +12,24 @@ If you're thinking to yourself, **_This is unbelievable_**, you'd probably be ri
 
 ### Headers
 
-#Header one
-##Header two
-###Header three
-####Header four
-#####Header five
-######Header six
+# Header one
+## Header two
+### Header three
+#### Header four
+##### Header five
+###### Header six
 
-####Colombian Symbolism in _One Hundred Years of Solitude_
+#### Colombian Symbolism in _One Hundred Years of Solitude_
 
 Here's some words about the book _One Hundred Years..._.
 
-###Links
+### Links
 
 [Search for it.](www.google.com)
 
 [You're **really, really** going to want to see this.](www.dailykitten.com)
 
-####The Latest News from [the BBC](www.bbc.com/news)
+#### The Latest News from [the BBC](www.bbc.com/news)
 
 Do you want to [see something fun][a fun place]?
 
@@ -38,7 +38,7 @@ Well, do I have [the website for you][another fun place]!
 [a fun place]: www.zombo.com
 [another fun place]: www.stumbleupon.com
 
-###Images
+### Images
 
 ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
@@ -105,9 +105,9 @@ To doubt they were kneeling then.
 
 1. Crack three eggs over a bowl.  
  
- Now, you're going to want to crack the eggs in such a way that you don't make a mess.  
- If you _do_ make a mess, use a towel to clean it up!
+   Now, you're going to want to crack the eggs in such a way that you don't make a mess.  
+   If you _do_ make a mess, use a towel to clean it up!
 
 2. Pour a gallon of milk into the bowl.
 
- Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
+   Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
