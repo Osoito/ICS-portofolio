@@ -1,6 +1,6 @@
 ## <ChenZhu> web exercise
 
-###Italics and Bold
+### Italics and Bold
 
 Writing in Markdown is _not_ that hard!
 
