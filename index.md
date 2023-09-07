@@ -1,4 +1,4 @@
-## <ChenZhu> web exercise
+## ChenZhu web exercise
 
 ### Italics and Bold
 
