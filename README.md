@@ -1,3 +1,7 @@
-# TOSD-FinalProject
+# Chen Z's portofolio
 
-This is the repository for Zhu(last name) Chen's final project of Tools of Software Development.
+### Education
+IT, undergraduate
+
+### Work Experience
+Cashier @ MS Bakery Shop
