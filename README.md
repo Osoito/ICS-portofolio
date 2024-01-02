@@ -3,7 +3,7 @@
 ## About Me
 ### Name
 - Chen (Hiruko) Z
-### Birthe Year
+### Birth Year
 - 2003
 
 ## Education
