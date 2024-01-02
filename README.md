@@ -1,8 +1,10 @@
 <img width="435" alt="image" src="https://github.com/Osoito/chenzhu-ICS-portofolio/assets/98416986/21f30d7d-99f3-43c7-9449-c4491cb72c0e">
 
 ## About Me
-Name - Chen (Hiruko) Z
-Birth Year - 2003
+#### Name
+##### - Chen (Hiruko) Z
+#### Birth Year
+##### - 2003
 
 ## Education
 Centria University of Applied Science
